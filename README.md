@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+---
+
+<img src="https://raw.githubusercontent.com/jandedobbeleer/oh-my-posh/main/website/static/img/logo.png"></img>
+<script src="https://gist.github.com/eloibrd/523e7b9d55d99da5f37b26d72b8ebabd.js"></script>
+
 <!--
 **eloibrd/eloibrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
