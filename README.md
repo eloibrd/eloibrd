@@ -1,9 +1,10 @@
-<h2>Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
+<img src="assets/Ailoua.gif" alt="Ailoua banner"></img>
+
+<h3>Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h3>
 
 I'm an IT student 👨‍🎓 and Full Strack developper 💻 based in Lyon, France 🇫🇷
 
-<img src="https://media.giphy.com/media/jG186kNLKs6TS/giphy.gif" width="480" height="324" alt="Tony Tony chopper"></img>
-<p><a href="https://giphy.com/gifs/cute-kawaii-jG186kNLKs6TS">via GIPHY</a></p>
+---
 
 <h2> Technical knowledge </h2>
 
@@ -54,7 +55,7 @@ Database
 
 Other programming
 
-![Shell](	https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 Network/deployment
@@ -94,4 +95,3 @@ Network/deployment
 <h2 align="left">Connect with me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloi-bernard-42590a196/)
-
