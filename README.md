@@ -47,32 +47,6 @@ I'm an IT student 👨‍🎓 and Full Stack developer 💻 based in Lyon, Franc
 
 ---
 
-<h3>Oh My Posh configurations</h3>
-
-<table>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://ohmyposh.dev/">
-        <img 
-          style="display: block; 
-            margin-left: auto;
-            margin-right: auto;
-            width: 100%;"
-          src="https://raw.githubusercontent.com/jandedobbeleer/oh-my-posh/main/website/static/img/logo.png"
-          alt="Oh My Posh logo">
-        </img>
-      </a>
-    </td>
-    <td align="center">      
-      <table style="margin-left: auto; margin-right: auto;">
-        <tr><th>Name</th>           <th>Status</th>      <th>Link</th></tr>
-        <tr><td>My config v2</td>   <td>In use</td>       <td><a href="https://gist.github.com/eloibrd/523e7b9d55d99da5f37b26d72b8ebabd"> myconfigv2.omp.json </a></td></tr>
-        <tr><td>My config</td>        <td>Previous</td>       <td><a href="https://gist.github.com/eloibrd/9d14411e133053bd64886c7f7f9421a0"> myconfig.omp.json </a></td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 <h2 align="left">Connect with me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloi-bernard-42590a196/)
